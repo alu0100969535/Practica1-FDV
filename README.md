@@ -14,15 +14,19 @@ Primeros pasos en el Editor.
 ## Imágenes
 
 Editor:
-![](img/editor.PNG)
+
+![](img/editor.png)
 
 Jerarquía de elementos:
+
 ![](img/hierarchy.PNG)
 
 Inspector del script de color:
 - Colores configurables (UnityEngine.Color)
 - Velocidad configurable (Float)
+
 ![](img/color-script.PNG)
 
 Funcionamiento del script de color:
+
 ![](img/lerp.gif)
